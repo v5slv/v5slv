@@ -1,5 +1,5 @@
-##Hi :v: <br> I'm Valérie, 
-###an aspiring full-stack developper 🌱
+<h1>Hi :v: <br> I'm Valérie, <h1>
+<h2>an aspiring full-stack developper 🌱<h2>
 I like coding, painting, and reading mystery books. I'm currently studying web development and digital creation.
 
 I can use :
