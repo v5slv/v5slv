@@ -46,7 +46,14 @@ I can use :
             alt="photoshop" width="30" height="30" /> </a>
             </a><a href="https://www.notion.so" target="_blank"
         rel="noreferrer"> <img
-            src="img/notion.svg" alt="notion" width="30" height="30" /> </a></p>
+            src="img/notion.svg" alt="notion" width="30" height="30" /> </a>
+        <a href="https://fr.reactjs.org/" target="_blank"
+        rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30" /></a>
+        <a href="https://sass-lang.com/" target="_blank"
+        rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="30" height="30" /></a>
+        <a href="https://threejs.org/" target="_blank"
+        rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="three.js" width="30" height="30" />          </a>
+</p>
 
 <br>
 Connect with me :
