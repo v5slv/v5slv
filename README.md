@@ -1,8 +1,11 @@
-##Hi :v: <br> I'm Valérie, 
-###an aspiring full-stack developper 🌱
+<h1>Hi :v: ,<br>I'm Valérie</h1>
+<strong>an aspiring full-stack developper 🌱</strong> <br>
 I like coding, painting, and reading mystery books. I'm currently studying web development and digital creation.
-
+<br>
+<br>
 I can use :
+<br>
+<br>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer"> <img
@@ -40,16 +43,26 @@ I can use :
             width="30" height="30" /> </a><a href="https://www.photoshop.com/en" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="30" height="30" />
+            alt="photoshop" width="30" height="30" /> </a>
             </a><a href="https://www.notion.so" target="_blank"
         rel="noreferrer"> <img
-            src="img/notion.svg" alt="notion" width="30" height="30" />
-            </a><a href="https://fr.reactjs.org/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30" />
-            </a><a href="https://sass-lang.com/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="30" height="30" />
-            </a><a href="https://threejs.org/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="three.js" width="30" height="30" /></a></p>
+            src="img/notion.svg" alt="notion" width="30" height="30" /> </a>
+        <a href="https://fr.reactjs.org/" target="_blank"
+        rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30" /></a>
+        <a href="https://sass-lang.com/" target="_blank"
+        rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="30" height="30" /></a>
+        <a href="https://threejs.org/" target="_blank"
+        rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="three.js" width="30" height="30" />          </a>
+</p>
+
+<br>
+Connect with me :
+<br>
+<br>
+<p align="left">
+<a href="https://linkedin.com/in/valérie-lapeyre-945000222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valérie-lapeyre-945000222" height="30" width="30" />&nbsp;</a>
+<a href="mailto:valerie.lpyr@gmail.com" target="blank"><img align="center" alt="valerie.lpyr | Gmail" src="img/gmail.svg" height="30" width="30"></a>
+</p>
 
 Connect with me :
 <p align="left">
