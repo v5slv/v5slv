@@ -63,9 +63,3 @@ Connect with me :
 <a href="https://linkedin.com/in/valérie-lapeyre-945000222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valérie-lapeyre-945000222" height="30" width="30" />&nbsp;</a>
 <a href="mailto:valerie.lpyr@gmail.com" target="blank"><img align="center" alt="valerie.lpyr | Gmail" src="img/gmail.svg" height="30" width="30"></a>
 </p>
-
-Connect with me :
-<p align="left">
-<a href="https://linkedin.com/in/valérie-lapeyre-945000222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valérie-lapeyre-945000222" height="30" width="30" /></a>
-<a href="mailto:valerie.lpyr@gmail.com" target="blank"><img align="center" alt="valerie.lpyr | Gmail" src="img/gmail.svg" height="30" width="30" style="padding-top:8px; margin-left:2em"></a>
-</p>
