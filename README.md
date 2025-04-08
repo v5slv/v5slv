@@ -1,5 +1,5 @@
 <h1>Hi :v: ,<br>I'm Valérie</h1>
-<strong>an aspiring full-stack developer (and web development student) 🌱</strong> <br>
+<strong>an aspiring ux/ui designer (and web development student) 🌱</strong> <br>
 I like coding, painting, and reading mystery books. I'm currently learning Three.js and Blender.
 <br>
 <br>
